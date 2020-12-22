@@ -1,0 +1,14 @@
+requests
+urllib3
+chardet
+html5lib
+pandas
+numpy
+bs4
+pyquery
+opencv-contrib-python
+pytesseract
+imutils
+matplotlib
+xlrd
+openpyxl
